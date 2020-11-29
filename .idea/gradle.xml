@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/JSON Database/task" />
+            <option value="$PROJECT_DIR$/Problems/A lambda expression with seven arguments" />
+            <option value="$PROJECT_DIR$/Problems/A long process" />
+            <option value="$PROJECT_DIR$/Problems/An anonymous class with a single method" />
+            <option value="$PROJECT_DIR$/Problems/Blacklist" />
+            <option value="$PROJECT_DIR$/Problems/Boxes are not just objects_" />
+            <option value="$PROJECT_DIR$/Problems/Calculate the number of distinct characters" />
+            <option value="$PROJECT_DIR$/Problems/Calculator" />
+            <option value="$PROJECT_DIR$/Problems/Check whether a number is prime" />
+            <option value="$PROJECT_DIR$/Problems/Correct the usage of non-generic class" />
+            <option value="$PROJECT_DIR$/Problems/Countdown counter" />
+            <option value="$PROJECT_DIR$/Problems/Counting number of instances" />
+            <option value="$PROJECT_DIR$/Problems/Creating a set" />
+            <option value="$PROJECT_DIR$/Problems/Days of the week" />
+            <option value="$PROJECT_DIR$/Problems/Displaying pairs" />
+            <option value="$PROJECT_DIR$/Problems/Expression closure" />
+            <option value="$PROJECT_DIR$/Problems/Getting current thread info" />
+            <option value="$PROJECT_DIR$/Problems/Getting distinct strings" />
+            <option value="$PROJECT_DIR$/Problems/Initialize an object of a generic class" />
+            <option value="$PROJECT_DIR$/Problems/Iterations" />
+            <option value="$PROJECT_DIR$/Problems/Message notifier as a thread" />
+            <option value="$PROJECT_DIR$/Problems/Messaging" />
+            <option value="$PROJECT_DIR$/Problems/Multiple threads" />
+            <option value="$PROJECT_DIR$/Problems/Multithreaded counter" />
+            <option value="$PROJECT_DIR$/Problems/Next even number" />
+            <option value="$PROJECT_DIR$/Problems/Ordering the execution of threads" />
+            <option value="$PROJECT_DIR$/Problems/Out of bounds_" />
+            <option value="$PROJECT_DIR$/Problems/Output elements" />
+            <option value="$PROJECT_DIR$/Problems/Output names of the methods" />
+            <option value="$PROJECT_DIR$/Problems/Sherlock Holmes and removing of characters" />
+            <option value="$PROJECT_DIR$/Problems/Sherlock Holmes and the mystery of anagrams" />
+            <option value="$PROJECT_DIR$/Problems/Spell checker" />
+            <option value="$PROJECT_DIR$/Problems/Squares list" />
+            <option value="$PROJECT_DIR$/Problems/Starting runnables" />
+            <option value="$PROJECT_DIR$/Problems/Starting threads" />
+            <option value="$PROJECT_DIR$/Problems/String processor" />
+            <option value="$PROJECT_DIR$/Problems/Test learners" />
+            <option value="$PROJECT_DIR$/Problems/Thread-safe account" />
+            <option value="$PROJECT_DIR$/Problems/Throw a checked exception" />
+            <option value="$PROJECT_DIR$/Problems/Throw an unchecked exception" />
+            <option value="$PROJECT_DIR$/Problems/VeganPizza" />
+            <option value="$PROJECT_DIR$/Problems/Writing a thread for printing numbers" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

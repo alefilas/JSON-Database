@@ -130,7 +130,7 @@ public class DAO {
             answer.setReason("No such key");
         } else {
             answer = new Answer("OK");
-            answer.setValue(result.isJsonObject() ? result : result);
+            answer.setValue(result);
         }
 
         readLock.unlock();

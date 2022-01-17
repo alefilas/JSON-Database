@@ -10,4 +10,3 @@ Client starts with 4 arguments:
 * -type type of query(set, get or delete)
 * -key  
 * -value (only if type is set)
-
